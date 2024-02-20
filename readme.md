@@ -2,4 +2,4 @@ I am actively seeking collaborators to develop a minimally viable product that e
 The user stores encrypted all of her personal and corporate documents to prove her environmental impact through a portal like the one I coded at https://github.com/elisabethgreen/polluter-payer-healthcare/blob/main/pay.htm which I posted at http://green247.org/pay.htm on my website.
 Her environmental impact is then calculated using the comprehensive lifetime environmental impact calculator which I coded at https://github.com/ElisabethGreen/impact/blob/main/impact.htm and posted at http://green247.org/calculator.htm and am updating.
 A ledger detects when the user has lifetime environmental credit to spend on healthcare and other needs.
-Cite:  copyright 2023 by Elisabeth Green <a href="https://github.com/elisabethgreen/polluter-payer-healthcare/license.md"> CC by NC SA </a>.
+Cite:  copyright 2023 by Elisabeth Green. The license is CC by NC SA.
