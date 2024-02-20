@@ -1,3 +1,5 @@
-I am actively seeking collaborators to develop a minimally viable product from the user interface I coded at https://github.com/elisabethgreen/polluter-payer-healthcare/blob/main/pay.htm which trades data for payment in carbon offsets or food vouchers. The calculator at https://github.com/elisabethgreen/ detects when the user has lifetime environmental credit to spend on healthcare and food.
-Links to the index page https://github.com/elisabethgreen/polluter-payer-healthcare/index.htm should include any app or dapp up for beta test.
-The license is cc by nc sa
+I am actively seeking collaborators to develop a minimally viable product that estimates a breathing individual's environmental impact and rewards her in proportion to her environmental protection. The rewards may include 3-way swaps that transfer credit, data, housing, healthcare, etc.
+The user stores encrypted all of her personal and corporate documents to prove her environmental impact through a portal like the one I coded at https://github.com/elisabethgreen/polluter-payer-healthcare/blob/main/pay.htm which I posted at http://green247.org/pay.htm on my website.
+Her environmental impact is then calculated using the comprehensive lifetime environmental impact calculator which I coded at https://github.com/ElisabethGreen/impact/blob/main/impact.htm and posted at http://green247.org/calculator.htm and am updating.
+A ledger detects when the user has lifetime environmental credit to spend on healthcare and other needs.
+Cite:  copyright 2023 by Elisabeth Green <a href="https://github.com/elisabethgreen/polluter-payer-healthcare/license.md"> CC by NC SA </a>.
